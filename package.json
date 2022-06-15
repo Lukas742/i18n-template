@@ -1,5 +1,5 @@
 {
-  "name": "my-app",
+  "name": "i18n-template",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -7,9 +7,11 @@
     "@testing-library/react": "^13.1.1",
     "@testing-library/user-event": "^14.1.0",
     "@ui5/webcomponents": "~1.4.0",
+    "@ui5/webcomponents-base": "~1.4.0",
     "@ui5/webcomponents-fiori": "~1.4.0",
     "@ui5/webcomponents-icons": "~1.4.0",
-    "@ui5/webcomponents-react": "^0.25.2",
+    "@ui5/webcomponents-react": "^0.25.4",
+    "prettier": "^2.7.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
